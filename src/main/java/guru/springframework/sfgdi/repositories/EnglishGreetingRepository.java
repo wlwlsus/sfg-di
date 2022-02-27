@@ -1,4 +1,4 @@
-package guru.springframework.sfgdi.repositorires;
+package guru.springframework.sfgdi.repositories;
 
 public interface EnglishGreetingRepository {
 

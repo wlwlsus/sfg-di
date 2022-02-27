@@ -1,6 +1,6 @@
 package guru.springframework.sfgdi.services;
 
-import guru.springframework.sfgdi.repositorires.EnglishGreetingRepository;
+import guru.springframework.sfgdi.repositories.EnglishGreetingRepository;
 
 /**
  * Created by jt on 12/27/19.
